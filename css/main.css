@@ -1,9 +1,28 @@
 html {
   background-color: #6EBBC3;
-  font-family: "Open Sans", sans-serif;
+  font-family: Pangolin, cursive;
 }
 
 header,
 footer {
   background-color: #F8D991;
+}
+
+.nav a {
+  color: #000;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.btn {
+  background-color: #F0B11E;
+  border-color: #000;
+}
+
+.opensans {
+  font-family: "Open Sans", sans-serif;
+}
+
+.marketo {
+  max-width: 300px;
 }
