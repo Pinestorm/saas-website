@@ -1,11 +1,11 @@
 html {
-  background-color: #6EBBC3;
+  background-color: #6ebbc3;
   font-family: Pangolin, cursive;
 }
 
 header,
 footer {
-  background-color: #F8D991;
+  background-color: #f8d991;
 }
 
 .nav a {
@@ -16,13 +16,13 @@ footer {
 }
 
 .btn {
-  background-color: #F0B11E;
+  background-color: #f0b11e;
   border-color: #000;
   color: #000;
 }
 
 .brownborder {
-  border-color: #271D16;
+  border-color: #271d16;
   border-width: 1px;
 }
 
@@ -39,25 +39,25 @@ footer {
 }
 
 .brown {
-  background-color: #271D16;
+  background-color: #271d16;
 }
 
 .blue {
-  background-color: #6EBBC3;
+  background-color: #6ebbc3;
 }
 
 article {
-  border: 3px solid #271D16;
+  border: 3px solid #271d16;
 }
 
 .contact {
-  border: 30px solid #19D4E9;
-  background-color: #042D75;
+  border: 30px solid #19d4e9;
+  background-color: #042d75;
   color: #fff;
 }
 
 .card {
-  background-color: #F8D991;
+  background-color: #f8d991;
   border: 1px solid #000;
 }
 
@@ -68,17 +68,17 @@ td {
 }
 
 .grey {
-  background-color: #BBCED8;
+  background-color: #bbced8;
   color: #000;
 }
 
 .event {
-  background-color: #19D4E9;
+  background-color: #19d4e9;
   color: #000;
 }
 
 .price {
-  border: 30px solid #6EBBC3;
-  background-color: #042D75;
+  border: 30px solid #6ebbc3;
+  background-color: #042d75;
   color: #fff;
 }
