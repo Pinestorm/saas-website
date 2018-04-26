@@ -82,3 +82,7 @@ td {
   background-color: #042d75;
   color: #fff;
 }
+
+.padleft {
+  padding-left: 1em;
+}
