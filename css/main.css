@@ -21,6 +21,11 @@ footer {
   color: #000;
 }
 
+.brownborder {
+  border-color: #271D16;
+  border-width: 1px;
+}
+
 .opensans {
   font-family: "Open Sans", sans-serif;
 }
@@ -33,6 +38,14 @@ footer {
   color: #fff;
 }
 
-.banner {
-  max-height: 500px;
+.brown {
+  background-color: #271D16;
+}
+
+.blue {
+  background-color: #6EBBC3;
+}
+
+article {
+  border: 3px solid #271D16;
 }
