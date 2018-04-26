@@ -18,6 +18,7 @@ footer {
 .btn {
   background-color: #F0B11E;
   border-color: #000;
+  color: #000;
 }
 
 .opensans {
@@ -26,4 +27,12 @@ footer {
 
 .marketo {
   max-width: 300px;
+}
+
+.white {
+  color: #fff;
+}
+
+.banner {
+  max-height: 500px;
 }
