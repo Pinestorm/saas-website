@@ -49,3 +49,9 @@ footer {
 article {
   border: 3px solid #271D16;
 }
+
+.contact {
+  border: 30px solid #19D4E9;
+  background-color: #042D75;
+  color: #fff;
+}
